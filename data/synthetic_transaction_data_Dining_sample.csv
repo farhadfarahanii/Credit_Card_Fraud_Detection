@@ -1,0 +1,101 @@
+transaction_id,transaction_date,cardholder_name,card_number,card_type,merchant_name,merchant_category,merchant_state,merchant_city,transaction_status,transaction_amount,merchant_category_code,fraud_flag
+RWYHDO-3GGJ-C6O515,2020-01-26 19:42:00,Michael Reeves,2294962353648068,mastercard,Texas Roadhouse,Casual Dining,Michigan,Grand Rapids,Successful,0.3559498473860285,MCC 5812,0
+Z89V2U-I424-IFSZV7,2019-04-02 08:43:00,Ronnie Campbell,2405289794587515,mastercard,Applebee's,Casual Dining,Kansas,Overland Park,Pending,15.20610703266198,MCC 5812,0
+K0TE6E-DOI6-QFYN7V,2021-02-08 07:15:00,Stephanie Jones,377983560222319,amex,Wendy's,Fast Food,Maine,Portland,Pending,13.244500009176196,MCC 5814,0
+CSUA5F-W9JY-7I76NR,2020-03-25 20:23:00,Julie Thompson,5146762679142298,mastercard,Carrabba's Italian Grill,Casual Dining,New Hampshire,Manchester,Successful,214.3161479343628,MCC 5812,1
+LF78UN-TIDZ-0MEJT8,2019-05-21 15:12:00,Jennifer Guerrero,6533450566540076,discover,Red Robin,Casual Dining,Kentucky,Lexington,Successful,10.536343730005637,MCC 5812,0
+SWNT30-F55W-ZT4A0H,2021-11-24 20:29:00,Eric Sutton,2247170444733448,mastercard,Yard House,Casual Dining,Vermont,Burlington,Successful,10.417359185234218,MCC 5812,0
+O40T84-HBD6-VN75EX,2023-04-13 12:23:00,Kristopher Chambers,377703960538852,amex,Red Lobster,Casual Dining,Michigan,Detroit,Pending,26.08270676572266,MCC 5812,0
+P4J1RL-NE2H-2XFMQJ,2022-02-17 15:57:00,Kimberly Parker,2480795649167046,mastercard,Olive Garden,Casual Dining,Washington,Seattle,Successful,19.038275024932855,MCC 5812,0
+UGH5VW-TAAP-BOJKM7,2018-10-17 06:32:00,Angela Davis,6011701658635039,discover,Daniel,Fine Dining,Washington,Spokane,Declined,50.20394864849713,MCC 5812,1
+G3OGLQ-8OFA-ACU1ML,2021-06-01 22:31:00,Stephanie Woods,2287403672575251,mastercard,Canlis,Fine Dining,Oklahoma,Tulsa,Pending,30.3671411120494,MCC 5812,0
+J5I4ZN-QX5D-KHFY43,2022-06-21 21:06:00,Christine Sosa,6011524362785084,discover,In-N-Out Burger,Fast Food,South Dakota,Rapid City,Pending,15.301245625656946,MCC 5814,0
+9XA3X3-CL3Y-WS77EY,2018-03-31 16:16:00,Juan Perry,2571106103671400,mastercard,Daniel,Fine Dining,Connecticut,Bridgeport,Pending,15.481539626762617,MCC 5812,0
+Y8L3SW-127E-KGD999,2022-02-17 19:40:00,Charles Ramsey,5476418674214315,mastercard,Per Se,Fine Dining,New Hampshire,Nashua,Successful,2023.802273353407,MCC 5812,1
+HRX1S3-2NXI-QMTEOW,2019-01-16 14:54:00,Tamara Cook,5138001713757807,mastercard,Chipotle,Fast Food,Indiana,Fort Wayne,Pending,11.92147253061644,MCC 5814,0
+SVAL2H-8CW5-CV4OZN,2018-03-05 22:55:00,Regina Barry,346187493415549,amex,Wendy's,Fast Food,California,San Diego,Successful,9.468,MCC 5814,1
+ONFV4F-VO3C-NLJQWR,2019-09-01 21:19:00,Thomas Aguilar DDS,348304886791000,amex,Bahama Breeze,Casual Dining,California,Los Angeles,Declined,29.016,MCC 5812,0
+DCRWK4-TYPB-J9RLZT,2019-02-11 21:04:00,Pamela Grant,4550959521850472,visa,Arby's,Fast Food,Ohio,Cleveland,Declined,22.24809267103487,MCC 5814,0
+AR9V1D-FWAA-CPRYXB,2020-10-19 09:29:00,Patricia Beltran,4235567298802460,visa,Subway,Fast Food,Illinois,Chicago,Successful,17.756157511294894,MCC 5814,0
+ZR9FTW-D8M5-XTSJVM,2021-06-10 22:20:00,Vincent Cabrera,6011498635924319,discover,Eleven Madison Park,Fine Dining,Nevada,Las Vegas,Declined,406.5608091914816,MCC 5812,1
+1AFUX0-0777-RDUF6K,2023-02-05 19:28:00,Jessica Boone,4247093217467141,visa,Applebee's,Casual Dining,Illinois,Aurora,Successful,43.48823202735864,MCC 5812,0
+X2TDVS-CZ02-U1KVHU,2023-08-28 15:40:00,Maria Nunez,6543722718101991,discover,Eleven Madison Park,Fine Dining,Michigan,Grand Rapids,Declined,221.03623535862465,MCC 5812,1
+MBF5Q0-E838-3RXZEC,2022-09-20 11:40:00,Gregory Espinoza,4576443421671056,visa,Pizza Hut,Fast Food,Kentucky,Lexington,Declined,12.561370874451285,MCC 5814,0
+ME0JGP-OYDP-B8TMBD,2019-01-11 07:23:00,Patricia Beck,2701574208082000,mastercard,Red Robin,Casual Dining,New Hampshire,Manchester,Pending,11.10752962038453,MCC 5812,0
+EDFQE5-9R2Q-G1R8E7,2019-12-14 14:10:00,Stacy Brown,344348582339725,amex,KFC,Fast Food,Arkansas,Fort Smith,Declined,18.07653257939358,MCC 5814,0
+MOQR2Z-34B0-HWOL1M,2023-02-13 20:21:00,Jared Jones,4385905213992305,visa,French Laundry,Fine Dining,Rhode Island,Providence,Pending,5.978957520747631,MCC 5812,0
+DVRG5Q-RLZI-MYGJXG,2021-01-17 16:08:00,Erica Johnson,2546737120720614,mastercard,Chipotle,Fast Food,North Dakota,Fargo,Successful,9.759821214008255,MCC 5814,0
+GRT0BX-5WF0-PCQZKA,2019-09-16 05:37:00,Wesley Sanchez,372743138242636,amex,P.F. Chang's,Casual Dining,North Carolina,Charlotte,Pending,53.02166451801211,MCC 5812,1
+2RKGE4-FH4C-4DIMKU,2020-09-03 21:35:00,Raven Ayers,6011252987872364,discover,Yard House,Casual Dining,Kentucky,Lexington,Successful,5.210166266140364,MCC 5812,0
+JQKNZM-LWA3-P3LZB7,2023-06-27 23:17:00,Ashley Graham,6561032384446861,discover,Buffalo Wild Wings,Casual Dining,Alabama,Birmingham,Successful,2.455499439246416,MCC 5812,0
+FD60CG-XNRV-1KIQU6,2018-07-22 09:11:00,Jeff Lewis,6590323221995177,discover,Panda Express,Fast Food,Ohio,Cleveland,Successful,41.22423251324955,MCC 5814,0
+QEHTWK-H2XN-52NL04,2022-04-20 14:10:00,Kenneth Everett,2702734739186089,mastercard,Carrabba's Italian Grill,Casual Dining,Idaho,Boise City,Successful,19.913269366110875,MCC 5812,0
+T736LK-TG4T-8VC7FV,2019-04-06 19:23:00,Ralph Ramsey,372226005054268,amex,Yard House,Casual Dining,Kentucky,Lexington,Declined,55.35939492860542,MCC 5812,0
+C3U7X7-H505-PMMI8Z,2022-01-31 05:27:00,Douglas Odonnell,2719058375204316,mastercard,KFC,Fast Food,Colorado,Denver,Declined,19.354377264352134,MCC 5814,0
+XO2ROL-1VWM-O7TI0Z,2021-01-11 11:04:00,Ronald Lopez,4691152978010978,visa,Eleven Madison Park,Fine Dining,Ohio,Cleveland,Pending,31.56262746930814,MCC 5812,0
+AFZQKX-NOJ2-R3RPTY,2018-04-07 21:43:00,Scott Sharp,5122025886465284,mastercard,Domino's Pizza,Fast Food,North Carolina,Charlotte,Declined,9.861629839119908,MCC 5814,0
+0VE41N-1DAP-TX9JCC,2020-08-19 19:49:00,Michelle Owens,6544476936229154,discover,Jack in the Box,Fast Food,Utah,West Valley City,Successful,5.269206663276083,MCC 5814,0
+UYDNGM-P3AG-7RAFIE,2023-02-26 14:27:00,Miss Kimberly Phillips,4374556998642814,visa,Applebee's,Casual Dining,Connecticut,New Haven,Pending,32.14707268628496,MCC 5812,0
+EFOFXG-CFSC-UODQL8,2021-05-11 18:55:00,Leah Perry,2652070114346273,mastercard,Domino's Pizza,Fast Food,North Carolina,Raleigh,Pending,45.15702857970331,MCC 5814,0
+2AHXXA-II7N-SPW9YL,2023-05-24 21:39:00,Andrea Pena,6591557564365089,discover,Red Lobster,Casual Dining,Pennsylvania,Pittsburgh,Successful,15.165141576138668,MCC 5812,0
+D6KJ46-ELN2-6LWEOH,2019-01-09 11:17:00,Stephanie Spencer,2295516438399342,mastercard,Arby's,Fast Food,Idaho,Boise City,Declined,6.582822447138196,MCC 5814,0
+GE18X6-NNFI-FLBXCA,2022-03-12 20:30:00,Cody Fields,342175725911637,amex,Panera Bread,Fast Food,Hawaii,Honolulu,Successful,13.79478558477385,MCC 5814,0
+T7HMK3-VBPV-USTCXS,2019-09-25 12:54:00,Jerome Turner,346666622533462,amex,Ruby Tuesday,Casual Dining,Hawaii,Pearl City,Declined,23.916200780705758,MCC 5812,0
+I4JN04-DB4V-GANK1L,2020-09-21 20:39:00,Aaron Williamson,4435560358185700,visa,Daniel,Fine Dining,Oklahoma,Oklahoma City,Pending,32.80253165594141,MCC 5812,0
+M8B52P-I15G-LNVJP9,2020-08-16 14:40:00,Olivia Weaver,6597138899387884,discover,Panera Bread,Fast Food,Texas,San Antonio,Declined,49.45605281969428,MCC 5814,1
+BRAEVN-2DJY-J3VNZF,2018-09-21 22:48:00,Anthony Roberts,6562652780428095,discover,Chick-fil-A,Fast Food,Maryland,Baltimore,Pending,27.221131385683574,MCC 5814,0
+O7LILQ-AW5C-RHIQR3,2023-02-05 20:08:00,Joshua Hudson,2603078754413451,mastercard,Cracker Barrel,Casual Dining,South Carolina,Columbia,Declined,6.91198749462941,MCC 5812,0
+IQ7JM9-GYMY-LBF9MH,2018-11-06 21:14:00,Austin Gregory,342763592214001,amex,Bouley,Fine Dining,Connecticut,Bridgeport,Successful,38.82903378474354,MCC 5812,0
+DWWJP9-ON2K-SQCZD9,2020-03-04 20:31:00,Scott Walters,2262603420659138,mastercard,LongHorn Steakhouse,Casual Dining,New Mexico,Albuquerque,Successful,9.53150621605593,MCC 5812,0
+EFE9TG-FYDE-3ZVKCS,2018-08-23 21:57:00,Erica Duncan,4584722037373599,visa,Pizza Hut,Fast Food,Kansas,Wichita,Declined,33.41384700590771,MCC 5814,0
+PO8K8U-UDTN-CDDAQU,2021-08-17 23:32:00,Tamara Thomas,374733848596221,amex,Bonefish Grill,Casual Dining,Tennessee,Nashville,Declined,18.34865340048465,MCC 5812,0
+CDKRUA-Y9IN-DBWAVM,2018-12-21 11:04:00,Frank Weeks,4134843324861636,visa,Morton's The Steakhouse,Fine Dining,North Carolina,Charlotte,Pending,200.0146684381083,MCC 5812,1
+ZANPW4-8650-E4NM8K,2019-05-28 21:43:00,Sherry Smith,2224256052336587,mastercard,Wendy's,Fast Food,Tennessee,Nashville,Pending,19.495966693977373,MCC 5814,0
+0EVZ37-3K5A-XBW91R,2018-04-30 13:38:00,Sheila Obrien,4819086499478883,visa,Le Bernardin,Fine Dining,New York,Buffalo,Successful,41.75155939500458,MCC 5812,1
+CJ9DYF-CJGI-361RSP,2019-03-04 06:37:00,Jason Baker,4269174978373521,visa,Outback Steakhouse,Casual Dining,West Virginia,Charleston,Pending,17.879355290253148,MCC 5812,0
+HB05YE-LEG4-0MJ1D5,2022-11-13 06:28:00,Jeremy Howe,376467891225739,amex,The Capital Grille,Fine Dining,Washington,Spokane,Declined,19.34116986074557,MCC 5812,0
+E0ZV8M-WSMZ-HYMZN8,2018-02-18 12:29:00,Dana Vincent,4913380172351219,visa,Daniel,Fine Dining,Utah,West Valley City,Successful,13.474696575468686,MCC 5812,0
+Q6ZEQW-807E-U36BIB,2022-05-05 18:24:00,Anne Hull,6506563909963053,discover,Cracker Barrel,Casual Dining,Massachusetts,Boston,Declined,31.38140307410118,MCC 5812,0
+C0D7C7-CKO1-ES08B9,2023-11-03 10:43:00,Sherry Wilson,4743078800983652,visa,Texas Roadhouse,Casual Dining,Nebraska,Lincoln,Declined,20.879502178529563,MCC 5812,0
+JXJJYO-25V4-PASOUM,2018-12-28 09:45:00,Hunter Reed,6011975746491775,discover,Bahama Breeze,Casual Dining,West Virginia,Huntington,Declined,13.101147282475754,MCC 5812,0
+72L347-OAD1-BI5OW2,2023-11-17 10:45:00,Patricia Hartman,4363383736712434,visa,Papa John's,Fast Food,Illinois,Chicago,Pending,38.28824629725396,MCC 5814,1
+RWKSXQ-S5OO-WPBH24,2023-10-25 09:23:00,Travis Alexander,341978272541231,amex,LongHorn Steakhouse,Casual Dining,Indiana,Indianapolis,Declined,19.01500305630187,MCC 5812,0
+40PGSQ-DQ6J-8UAJJL,2019-07-02 23:49:00,Kristen Shelton,6011361889670782,discover,Commander's Palace,Fine Dining,Arkansas,Fort Smith,Pending,10.308666051869894,MCC 5812,0
+UNHINI-LC1P-Q0ADAV,2020-10-01 14:26:00,Morgan Parrish,6523052474102528,discover,Taco Bell,Fast Food,Alabama,Montgomery,Successful,21.3719395638114,MCC 5814,0
+8KH4EG-XG6K-ZKRLEE,2022-10-06 16:11:00,Steven Cummings,2293389684358145,mastercard,TGI Fridays,Casual Dining,Colorado,Denver,Pending,16.5592348530539,MCC 5812,0
+PQN3AH-A801-SDO6TD,2023-08-09 14:44:00,Jordan Williamson,4103759091554039,visa,Per Se,Fine Dining,Vermont,Essex,Successful,18.573802792479945,MCC 5812,0
+JIM6X4-4JOB-O5FFQ4,2023-09-29 17:53:00,Michael Phillips,2271526147869368,mastercard,Olive Garden,Casual Dining,New Jersey,Jersey City,Pending,21.79990978410296,MCC 5812,0
+1BVEEU-MLJ5-YZEYZR,2022-04-16 23:56:00,Theresa Hill,6011904650044933,discover,Ruth's Chris Steak House,Fine Dining,Maryland,Baltimore,Successful,217.9074231819077,MCC 5812,1
+PYI6QD-7H1S-UIY42Q,2021-08-03 09:08:00,Melissa Moses,2720088853100675,mastercard,Canlis,Fine Dining,Ohio,Columbus,Pending,1549.8911278349733,MCC 5812,1
+J463H3-SGUN-BLDMBM,2021-04-21 23:43:00,Kyle Powell,6512202367071065,discover,Chipotle,Fast Food,Nevada,Las Vegas,Pending,19.82641289092167,MCC 5814,0
+MEBKQX-29FF-DMQ1HV,2022-04-21 19:51:00,Kathryn Fuller,375977181275922,amex,Texas Roadhouse,Casual Dining,Michigan,Detroit,Successful,62.17865795620214,MCC 5812,1
+GYVGJI-WM9T-9XKBX2,2020-03-12 09:54:00,Dylan Baldwin,4762264258925330,visa,KFC,Fast Food,Georgia,Atlanta,Pending,35.8707857212352,MCC 5814,0
+LBAYEG-G1FG-2JXFUZ,2023-05-11 13:21:00,William Singh,6011167372324906,discover,KFC,Fast Food,South Dakota,Sioux Falls,Pending,10.539836271517869,MCC 5814,0
+2T8XCV-J510-YOYFCF,2023-01-03 23:57:00,Brittany Tanner,6011812797720549,discover,Bouley,Fine Dining,Vermont,Burlington,Successful,46.224426097303386,MCC 5812,0
+4DJE59-VGTQ-966CYT,2022-06-30 23:15:00,Evan Allison,2228317196855647,mastercard,In-N-Out Burger,Fast Food,South Dakota,Rapid City,Successful,0.3922009219940352,MCC 5814,0
+PUJK6H-VGB2-7KNZTZ,2020-06-16 18:00:00,Danielle Walker,345523840522127,amex,Domino's Pizza,Fast Food,Kentucky,Louisville,Successful,9.669131311368956,MCC 5814,0
+LCOLA7-11LS-Z2T8CK,2023-06-29 11:40:00,Alan Weiss,4576083577402946,visa,Spago,Fine Dining,Vermont,Essex,Pending,62.572682058877,MCC 5812,1
+D6GFRF-NO7J-LRNCC9,2022-09-18 22:18:00,Rachel Harris,2371266816379493,mastercard,Eleven Madison Park,Fine Dining,Arkansas,Little Rock,Pending,9.975862265243356,MCC 5812,0
+M28376-155Y-UCNRJT,2018-07-04 21:48:00,Mr. Joshua Hale MD,6599456865536443,discover,Canlis,Fine Dining,Massachusetts,Boston,Successful,45.121027438134206,MCC 5812,0
+NFACG9-A786-TUQJVF,2022-11-08 07:43:00,Michael Gill,6011579917972488,discover,Bahama Breeze,Casual Dining,New Jersey,Jersey City,Successful,34.91240008316399,MCC 5812,0
+D0D556-4MTG-KDCF51,2021-03-23 12:04:00,Jack Anderson,4645719030935983,visa,Daniel,Fine Dining,Oregon,Portland,Successful,37.87487449427217,MCC 5812,0
+DSARBZ-0HIM-R4HKJ5,2020-05-04 20:27:00,Kristie Stewart,4158499004680845,visa,Alinea,Fine Dining,Missouri,Kansas City,Successful,101.98650430615008,MCC 5812,1
+B5GDOY-2NJM-9AF5JL,2019-10-22 06:14:00,Jamie Jackson,6011882638611371,discover,Eleven Madison Park,Fine Dining,Arkansas,Fort Smith,Declined,37.81861211665183,MCC 5812,0
+XYUMOJ-9JO4-SX9YWL,2021-12-14 05:35:00,Shannon Levy,4157260106679809,visa,Pizza Hut,Fast Food,Louisiana,New Orleans,Pending,2.997689338240378,MCC 5814,0
+1XG3E8-SCNV-XSD2YE,2021-11-21 13:15:00,Greg Long,4963061564407624,visa,Applebee's,Casual Dining,New York,New York,Successful,194.1719219497884,MCC 5812,1
+0FJS7I-IBX6-HNP7WM,2018-01-30 20:31:00,Charles Alvarez,348440369688683,amex,Applebee's,Casual Dining,Utah,Salt Lake City,Declined,10.462993347232546,MCC 5812,0
+847X4D-NNVF-OTEUG0,2020-04-05 19:15:00,John Matthews,6011212155975084,discover,Buffalo Wild Wings,Casual Dining,Maryland,Columbia,Pending,22.23496446227616,MCC 5812,0
+313GK9-0ZY4-EI4V9D,2023-07-20 12:59:00,Karen Perez,370179221161601,amex,Ruth's Chris Steak House,Fine Dining,Rhode Island,Providence,Pending,31.43670314376485,MCC 5812,0
+Q4B67C-D31Z-JWN6Y3,2019-05-09 22:30:00,Olivia Rojas,348446018546578,amex,Maggiano's Little Italy,Casual Dining,Ohio,Columbus,Pending,12.028208821668292,MCC 5812,0
+L9B40U-W91Y-EM3F7A,2023-03-14 13:44:00,Anthony Schmidt,6538900761231447,discover,Gary Danko,Fine Dining,Wyoming,Cheyenne,Declined,6.729927636767435,MCC 5812,0
+7LW302-71H0-68FIVD,2018-08-18 22:30:00,Cameron Scott,6527939223485137,discover,Chick-fil-A,Fast Food,New Mexico,Albuquerque,Pending,5.322346795358001,MCC 5814,0
+79JDS9-IID1-PO7PU3,2022-02-01 22:00:00,Angel Zamora,5364384284031728,mastercard,Alinea,Fine Dining,Delaware,Wilmington,Successful,10.469497067916173,MCC 5812,0
+A8JUDQ-WPN7-J7944A,2018-02-17 23:13:00,Whitney Love,346435785230633,amex,Spago,Fine Dining,Rhode Island,Warwick,Pending,31.64576802052853,MCC 5812,0
+SL3C20-QAUJ-ICUCSZ,2018-03-12 20:16:00,Amanda Fowler,2701894921119081,mastercard,Chick-fil-A,Fast Food,Texas,San Antonio,Declined,26.49242985878965,MCC 5814,1
+CROQD0-JXVN-RHHSPO,2021-01-12 19:00:00,Donald Kim,377689468750745,amex,Taco Bell,Fast Food,Rhode Island,Warwick,Pending,10.160255056021308,MCC 5814,0
+4RRJFV-M8LQ-MOG5J3,2022-07-17 05:43:00,Jonathan Brooks,6522440038793083,discover,Ruby Tuesday,Casual Dining,Oklahoma,Tulsa,Successful,5.984844854051969,MCC 5812,0
+2EI2XO-VJI7-46W5S8,2020-07-16 10:59:00,Kristin Johnson,6011004503677482,discover,Red Lobster,Casual Dining,Louisiana,New Orleans,Successful,24.67355939299336,MCC 5812,0
+SPYT3S-CD09-ON6U50,2018-09-18 09:55:00,Monica Vargas,2543497177642236,mastercard,Texas Roadhouse,Casual Dining,Virginia,Norfolk,Pending,18.23178344729834,MCC 5812,0
+YCE8WL-TZ50-SHWGKG,2021-02-17 19:03:00,Sean Ward,374540265549363,amex,Gary Danko,Fine Dining,Maine,Portland,Pending,13.191891909837963,MCC 5812,0
+DZ3JHN-2UST-8X21OB,2023-08-26 13:46:00,Denise Stout,6543174085038689,discover,Jack in the Box,Fast Food,New Hampshire,Manchester,Declined,18.87182054929968,MCC 5814,0
+BUP74U-J719-2202JJ,2019-02-11 21:22:00,Karen Russell,4857962623867063,visa,TGI Fridays,Casual Dining,Montana,Billings,Pending,80.96682476959576,MCC 5812,1

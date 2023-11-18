@@ -1,0 +1,14 @@
+Column Description
+Unique identifier for each transaction
+Date and time of the transaction
+Name of the cardholder
+Credit card number used for the transaction
+"Type of credit card (e.g., Visa, Mastercard)"
+Name of the merchant where the transaction occurred
+"Category of the merchant (e.g., dining, entertainment)"
+State where the merchant is located
+City where the merchant is located
+"Status of the transaction (e.g., approved, declined)"
+Amount of the transaction
+Code representing the merchant category
+Flag indicating whether the transaction is flagged as potential fraud
