@@ -117,8 +117,6 @@ Our choice to employ CatBoost and LightGBM stems from their exceptional abilitie
 
 CatBoost, an advanced gradient boosting algorithm, stands out in fraud detection with its exceptional capability to handle categorical features seamlessly. Leveraging ordered boosting and innovative strategies like oblivious trees, it minimizes overfitting while boosting accuracy. CatBoost utilizes the logarithm of the target variable in its optimization, aiding robustness against outliers and enabling accurate predictions even with limited data. Its inherent support for categorical variables eliminates the need for extensive preprocessing, as it inherently encodes categorical data by adopting the method of Ordered Target Encoding. This unique encoding technique ensures minimal data leakage, contributing to enhanced model performance and interpretability. With its efficient handling of high-cardinality categorical variables and built-in features for fast computation, CatBoost serves as a reliable and powerful tool in the realm of fraud detection and classification tasks. The following confusion matrix visualizes the number of correct and incorrect predictions for each class, enabling an assessment of the model's performance.
 
-![catboost_model_confusion_matrix](images/catboost_model_confusion_matrix.png)
-
 <img src="images/catboost_model_confusion_matrix.png" alt="CatBoost Model Confusion Matrix" style="width:600px; height:auto;">
 
 
@@ -145,7 +143,7 @@ Feature Importance is a crucial machine learning tool that helps identify key dr
 
 LightGBM, a gradient boosting framework, stands as a robust model for fraud detection owing to its exceptional performance and efficiency in handling large-scale datasets. It features a unique histogram-based approach to tree building, enhancing computational speed while accommodating extensive categorical data, a crucial asset in fraud detection tasks. By employing an ensemble of decision trees and advanced optimization techniques like leaf-wise growth, LightGBM minimizes loss functions efficiently, making it adept at capturing intricate patterns inherent in fraudulent activities. Its tunable parameters including learning rate, number of leaves, and feature fraction facilitate fine-tuning for optimal performance tailored to fraud detection tasks. The following confusion matrix visualizes the number of correct and incorrect predictions for each class, enabling an assessment of the model's performance.
 
-![catboost_model_confusion_matrixlightgbm_model_confusion_matrix](images/lightgbm_model_confusion_matrix.png)
+<img src="images/lightgbm_model_confusion_matrix.png" alt="Lightgbm Model Confusion Matrix" style="width:600px; height:auto;">
 
 
 |Metric|Score|
