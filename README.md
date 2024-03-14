@@ -119,6 +119,8 @@ CatBoost, an advanced gradient boosting algorithm, stands out in fraud detection
 
 ![catboost_model_confusion_matrix](images/catboost_model_confusion_matrix.png)
 
+<img src="images/catboost_model_confusion_matrix.png" alt="CatBoost Model Confusion Matrix" style="width:600px; height:auto;">
+
 
 |Metric|Score|
 |---|---|
@@ -134,8 +136,6 @@ CatBoost, an advanced gradient boosting algorithm, stands out in fraud detection
 Feature Importance is a crucial machine learning tool that helps identify key drivers that impact model predictions. It aids in feature selection and understanding the most significant variables that contribute to the model's overall predictive power.
 
 ![catboost_model_feature_importance](images/catboost_model_feature_importance.png)
-
-<img src="images/catboost_model_confusion_matrix.png" alt="CatBoost Model Confusion Matrix" style="width:300px; height:auto;">
 
 
 **The plot illustrates the significance of transaction amount, merchant city and card number in detecting fraud.**
