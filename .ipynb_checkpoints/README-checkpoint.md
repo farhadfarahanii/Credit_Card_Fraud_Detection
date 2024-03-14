@@ -117,7 +117,7 @@ Our choice to employ CatBoost and LightGBM stems from their exceptional abilitie
 
 CatBoost, an advanced gradient boosting algorithm, stands out in fraud detection with its exceptional capability to handle categorical features seamlessly. Leveraging ordered boosting and innovative strategies like oblivious trees, it minimizes overfitting while boosting accuracy. CatBoost utilizes the logarithm of the target variable in its optimization, aiding robustness against outliers and enabling accurate predictions even with limited data. Its inherent support for categorical variables eliminates the need for extensive preprocessing, as it inherently encodes categorical data by adopting the method of Ordered Target Encoding. This unique encoding technique ensures minimal data leakage, contributing to enhanced model performance and interpretability. With its efficient handling of high-cardinality categorical variables and built-in features for fast computation, CatBoost serves as a reliable and powerful tool in the realm of fraud detection and classification tasks. The following confusion matrix visualizes the number of correct and incorrect predictions for each class, enabling an assessment of the model's performance.
 
-<img src="images/catboost_model_confusion_matrix.png" alt="CatBoost Model Confusion Matrix" style="width:600px; height:auto;">
+<img src="images/catboost_model_confusion_matrix.png" alt="CatBoost Model Confusion Matrix" style="width:500px; height:auto;">
 
 
 |Metric|Score|
